@@ -80,7 +80,7 @@ Here are some ideas to get you started:
         <img alt="NAVER·BLOG" src="https://img.shields.io/badge/Naver-NAVER·BLOG-lime?style=for-the-badge&logo=naver"/>
     </a>
     <a href="">
-        <img alt="https://img.shields.io/badge/NOTION-MY·NOTION-dimgray?style=for-the-badge&logo=notion"/>
+        <img alt="NOTION" src="https://img.shields.io/badge/NOTION-MY·NOTION-dimgray?style=for-the-badge&logo=notion"/>
     </a>
    
 </div>
