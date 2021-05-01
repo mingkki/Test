@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div align="center">
     <img src="https://mingkki.github.io/assets/img/myProfile.jpg" width="500"/>
 
 </div>
+-->
 
-<br>
+
 <div id="main" align="center">
      <img 
         src="https://github-readme-stats.vercel.app/api?username=mingkki&hide=stars,contribs&count_private=true&show_icons=true"
