@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 -->
 <div id="main" align="right">
     
-    <img 
-        src="mingkki.github.io/assets/img/myProfile.jpg"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    <img src="https://mingkki.github.io/assets/img/myProfile.jpg"/>
 </div>
 
 
 <div id="main" align="right">
-    <img src="/myProfile.jsp" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+     <img 
+        src="https://github-readme-stats.vercel.app/api?username=mingkki&hide=stars,contribs&count_private=true&show_icons=true"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 
 
