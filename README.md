@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div id="main" align="right">
      <img 
         src="https://github-readme-stats.vercel.app/api?username=mingkki&hide=stars,contribs&count_private=true&show_icons=true"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px; positon:absolute"/>
+        style="margin: -500px 50px 100px 0px; positon:absolute"/>
 </div>
 
 
