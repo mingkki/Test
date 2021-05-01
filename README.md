@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="left">
     <img 
         src="https://mingkki.github.io/assets/img/myProfile.jpg"
-        style="position: absolute;"/>
+        style="width:30%; position: absolute;"/>
 
 </div>
 
