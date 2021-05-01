@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="left" style=" width: 30%; position: absolute;">
-    <img src="https://mingkki.github.io/assets/img/myProfile.jpg" />
+    <img src="https://mingkki.github.io/assets/img/myProfile.jpg" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 
 </div>
 
