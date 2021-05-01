@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="left">
-    <img src="https://mingkki.github.io/assets/img/myProfile.jpg" width="300" position="absolute"/>
+<div align="center">
+    <img src="https://mingkki.github.io/assets/img/myProfile.jpg" width="500"/>
 
 </div>
 
 <br>
-<div id="main" align="right">
+<div id="main" align="center">
      <img 
         src="https://github-readme-stats.vercel.app/api?username=mingkki&hide=stars,contribs&count_private=true&show_icons=true"
         style="margin: -500px 50px 100px 0px; positon:absolute"/>
