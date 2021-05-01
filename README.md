@@ -65,7 +65,21 @@ Here are some ideas to get you started:
 <br>
 
 
+## 🙋🏻‍♀️ Contact me
 
+<div align="center">
+    <a href="mailto:2devzzi@gmail.com">
+        <img 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    <a href="https://instagram.com/leejieuns2">
+        <img 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/leejieuns2/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    
+</div>
 
 
 
