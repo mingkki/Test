@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 </div>
 
-
+<br>
 <div id="main" align="right">
      <img 
         src="https://github-readme-stats.vercel.app/api?username=mingkki&hide=stars,contribs&count_private=true&show_icons=true"
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-
+<br>
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 <p align="center">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
+
+<br>
 
 
 
