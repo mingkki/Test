@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## 🙋🏻‍♀️ Contact me
+## :octocat: Contact me
 
 <div align="center">
     <a href="mailto:2devzzi@gmail.com">
