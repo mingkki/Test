@@ -19,11 +19,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width: 100%">
-    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mingkki)](https://github.com/anuraghazra/github-readme-stats)
 
+myProfile.jpg
+
+<div id="main" align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=mingkki&hide=stars,contribs&count_private=true&show_icons=true"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
+
+
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
