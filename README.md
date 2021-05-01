@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="main" align="right">
+    <img 
+        src="https://https://github.com/mingkki/mingkki/myProfile.jpg
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
 
-myProfile.jpg
 
 <div id="main" align="right">
     <img 
