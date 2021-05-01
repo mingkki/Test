@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ## 👨 Contact me
 
 <div align="center">
-    <a href="mailto:2devzzi@gmail.com">
+    <a href="alstjd3953@naver.com">
         <img 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
@@ -82,5 +82,5 @@ Here are some ideas to get you started:
 
 
 
-https://www.notion.so/b7b37e5440cc44d18b43f22f682465d4#0fb9912062e241f790adcc4ac22971ef
+
  
