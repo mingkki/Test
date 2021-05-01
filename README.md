@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div id="main" align="right">
     
     <img 
-        src="https://https://github.com/mingkki/mingkki/myProfile.jpg
+        src="mingkki.github.io/assets/img/myProfile.jpg"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 
