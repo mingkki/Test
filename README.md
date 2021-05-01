@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="left" style="max-width:30%; position: absolute;">
-    <img 
-        src="https://mingkki.github.io/assets/img/myProfile.jpg" />
+<div align="left" style=" width: 30%; position: absolute;">
+    <img src="https://mingkki.github.io/assets/img/myProfile.jpg" />
 
 </div>
 
