@@ -76,10 +76,10 @@ Here are some ideas to get you started:
     <a href="https://mingkki.github.io">
         <img alt="GITHUB·BLOG" src="https://img.shields.io/badge/GITHUB-GITHUB·BLOG-dimgray?style=for-the-badge&logo=github"/>
     </a>
-    <a target="_blank" href="https://blog.naver.com/alstjd3953">
+    <a href="https://blog.naver.com/alstjd3953">
         <img alt="NAVER·BLOG" src="https://img.shields.io/badge/Naver-NAVER·BLOG-lime?style=for-the-badge&logo=naver"/>
     </a>
-    <a target="_blank" href="https://blog.naver.com/alstjd3953">
+    <a href="">
         <img alt="https://img.shields.io/badge/NOTION-MY·NOTION-dimgray?style=for-the-badge&logo=notion"/>
     </a>
    
