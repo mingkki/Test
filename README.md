@@ -73,9 +73,7 @@ Here are some ideas to get you started:
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
     <a href="https://instagram.com/leejieuns2">
-        <img 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/leejieuns2/"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     
 </div>
