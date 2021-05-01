@@ -76,7 +76,7 @@ Here are some ideas to get you started:
      <a href="https://mingkki.github.io">
         <img alt="GitHub_Blog" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://blog.naver.com/alstjd3953">
+    <a target="_blank" href="https://blog.naver.com/alstjd3953">
         <img alt="GitHub_Blog" src="https://img.shields.io/badge/Naver-네이버블로그-lime?style=for-the-badge&logo=naver"/>
     </a>
    
