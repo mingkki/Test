@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="mailto:alstjd4770@gmail.com">
         <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
      <a href="https://mingkki.github.io">
