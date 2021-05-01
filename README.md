@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 
-
-<br>
+## 👩🏻‍💻 Tech Stack 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
