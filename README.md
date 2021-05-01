@@ -72,8 +72,8 @@ Here are some ideas to get you started:
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <a href="mingkki.github.io">
-        <img alt="GitHub" src="https://mingkki.github.io?&style=for-the-badge&logo=github&logoColor=white"/>
+     <a href="mingkki.github.io">
+        <img alt="GitHub" src="https://mingkki.github.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     
 </div>
