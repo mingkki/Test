@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="main" align="right">
+<div align="left">
     <img 
         src="https://mingkki.github.io/assets/img/myProfile.jpg"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+        style="position: absolute;"/>
 
 </div>
 
