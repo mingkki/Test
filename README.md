@@ -73,14 +73,15 @@ Here are some ideas to get you started:
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
+    <br>
     <a href="https://mingkki.github.io">
         <img alt="GITHUB·BLOG" src="https://img.shields.io/badge/GITHUB-GITHUB·BLOG-dimgray?style=for-the-badge&logo=github"/>
     </a>
-    <a href="https://blog.naver.com/alstjd3953">
-        <img alt="NAVER·BLOG" src="https://img.shields.io/badge/Naver-NAVER·BLOG-lime?style=for-the-badge&logo=naver"/>
-    </a>
     <a href="">
         <img alt="NOTION" src="https://img.shields.io/badge/NOTION-MY·NOTION-dimgray?style=for-the-badge&logo=notion"/>
+    </a>
+    <a href="https://blog.naver.com/alstjd3953">
+        <img alt="NAVER·BLOG" src="https://img.shields.io/badge/Naver-NAVER·BLOG-lime?style=for-the-badge&logo=naver"/>
     </a>
    
 </div>
