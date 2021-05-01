@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="main" align="right">
+    notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F55bec031-9fe6-4486-9633-0d1e08dc9995%2FMyprofile.jpg?table=space&id=4bfdc17c-c69d-4365-9335-86fdfd56d96e&width=60&userId=c2cb0e79-37ad-4153-97ac-fcc7e442c084&cache=v2
     <img 
         src="https://https://github.com/mingkki/mingkki/myProfile.jpg
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
