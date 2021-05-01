@@ -73,7 +73,7 @@ Here are some ideas to get you started:
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
     <a href="mingkki.github.io">
-        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+        <img alt="GitHub" src="https://mingkki.github.io?&style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     
 </div>
